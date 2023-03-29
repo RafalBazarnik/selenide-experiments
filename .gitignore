@@ -1,0 +1,5 @@
+/test-result
+/target
+/build
+*.iml
+.idea
